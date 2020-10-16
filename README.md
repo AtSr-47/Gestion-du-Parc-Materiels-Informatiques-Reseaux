@@ -4,10 +4,7 @@ By Athmane Srai </br>
 E-mail : athmane.srai@gmail.com
 <center>
 	
-![Capture 00](https://github.com/AthmaneSrai/Gestion-du-Parc-Materiels-Informatiques-Reseaux/blob/master/help/Capture.PNG)
-		 
----------------------------------------
-![Capture 01](https://github.com/AthmaneSrai/Gestion-du-Parc-Materiels-Informatiques-Reseaux/blob/master/help/Capture1.PNG)
+![Capture 01](https://github.com/AthmaneSrai/Gestion-du-Parc-Materiels-Informatiques-Reseaux/blob/master/help/Capture.PNG)
 
 ---------------------------------------
 ![Capture 02](https://github.com/AthmaneSrai/Gestion-du-Parc-Materiels-Informatiques-Reseaux/blob/master/help/Capture2.PNG)
