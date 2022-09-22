@@ -1,6 +1,6 @@
 # Gestion du Parc Matériels Informatiques & Réseaux d'OCP
 # WEB APP (LARAVEL)
-By Athmane Srai </br>
+By At.Sr </br>
 E-mail : athmane.work@gmail.com
 <center>
 	
